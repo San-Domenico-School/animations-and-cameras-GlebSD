@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: LightShowControllerGreen
+  m_Controller: {fileID: 9100000, guid: 65317079f56324f15bb3ddcb28c77f73, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: b41a4af3a51d1470491e792d2eab501c, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b7c3d94ee03c0468f8488b5017eccb20, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: b77b2ab6db38d45e79dfdb78bf9a1b02, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b77b2ab6db38d45e79dfdb78bf9a1b02, type: 2}
